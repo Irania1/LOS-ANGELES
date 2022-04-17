@@ -1,0 +1,23 @@
+h1:hover{
+      color: #F5CBEA;
+}
+h2:hover{
+	   color:#D98299
+}
+img {
+ width: 40%;
+ }
+body {
+ background: #FCF1F9;
+ }
+iframe {
+	width: 40%;
+}
+p {
+	font-family: Times New Roman, serif ;
+	font-size: 30px;
+	color: #AE728A ;
+}
+a {
+	font-size: 20px;
+}
